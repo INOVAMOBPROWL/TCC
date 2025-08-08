@@ -17,11 +17,11 @@
 **Palavras-chave:** `palavra1` `palavra2` `palavra3` `palavra4`
 
 **Tecnologias Utilizadas:**
-- 🔧 **Frontend:** [React, Vue, Angular, etc.]
-- ⚙️ **Backend:** [Node.js, Python, Java, etc.]
-- 🗄️ **Banco de Dados:** [MySQL, PostgreSQL, MongoDB, etc.]
-- 📱 **Mobile:** [React Native, Flutter, etc.]
-- ☁️ **Cloud:** [AWS, Google Cloud, Azure, etc.]
+- 🔧 **Frontend:** EXPO, HTML, CSS
+- ⚙️ **Backend:** PHP, VSC
+- 🗄️ **Banco de Dados:** MySQL
+- 📱 **Mobile:** React Native, Flutter, EXPO, APP MIT
+- ☁️ **Cloud:** OneDrive
 
 ---
 
@@ -57,7 +57,6 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <img src="https://via.placeholder.com/150x150/4A90E2/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
       <b>[Nome Completo]</b><br>
       <sub><i>Função no Projeto</i></sub><br>
-      <sub>RA: [Número do RA]</sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -69,7 +68,6 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <img src="https://via.placeholder.com/150x150/E74C3C/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
       <b>[Nome Completo]</b><br>
       <sub><i>Função no Projeto</i></sub><br>
-      <sub>RA: [Número do RA]</sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -81,7 +79,6 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <img src="https://via.placeholder.com/150x150/2ECC71/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
       <b>[Nome Completo]</b><br>
       <sub><i>Função no Projeto</i></sub><br>
-      <sub>RA: [Número do RA]</sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -95,7 +92,6 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <img src="https://via.placeholder.com/150x150/F39C12/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
       <b>[Nome Completo]</b><br>
       <sub><i>Função no Projeto</i></sub><br>
-      <sub>RA: [Número do RA]</sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -107,7 +103,6 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <img src="https://via.placeholder.com/150x150/9B59B6/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
       <b>[Nome Completo]</b><br>
       <sub><i>Função no Projeto</i></sub><br>
-      <sub>RA: [Número do RA]</sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -119,7 +114,6 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <img src="https://via.placeholder.com/150x150/1ABC9C/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
       <b>[Nome Completo]</b><br>
       <sub><i>Função no Projeto</i></sub><br>
-      <sub>RA: [Número do RA]</sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -136,11 +130,8 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
 
 ### 📋 Gestão de Sprints
 <div align="center">
-  <a href="[LINK_DO_TRELLO]" target="_blank">
+  <a href="https://trello.com/invite/b/67e49d54823a817ef793c1a8/ATTI7dc0b91d3968851bb5ffc051d754c063C55D0ADC/inovamob" target="_blank">
     <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Board">
-  </a>
-  <a href="[LINK_DO_JIRA]" target="_blank">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Board">
   </a>
 </div>
 
