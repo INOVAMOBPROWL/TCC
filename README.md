@@ -2,9 +2,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Universidade-[Nome%20da%20Universidade]-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Curso-[Nome%20do%20Curso]-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ano-2024-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Universidade-[ETEC]-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Curso-[DESENVOLVIMENTO DE SISTEMAS]-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ano-2025-red?style=for-the-badge">
 </div>
 
 ---
