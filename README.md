@@ -403,9 +403,6 @@ npm run dev
 Para dúvidas ou sugestões sobre o projeto, entre em contato:
 
 - 📧 **Email:** [email-do-grupo@universidade.edu.br]
-- 💬 **Discord:** [Link do servidor Discord do grupo]
-- 📱 **WhatsApp:** [Link do grupo WhatsApp]
-
 ---
 
 ## 📝 Licença
