@@ -55,34 +55,34 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
   <tr>
     <td align="center">
       <img src="https://via.placeholder.com/150x150/4A90E2/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
-      <b>[Nome Completo]</b><br>
-      <sub><i>Função no Projeto</i></sub><br>
-      <a href="[LINK_LINKEDIN]" target="_blank">
+      <b>[L.Gustavo]</b><br>
+      <sub><i>Scrum Master</i></sub><br>
+      <a href="https://www.linkedin.com/in/gustavo-vieira-6833b8364/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="[LINK_GITHUB]" target="_blank">
+      <a href="https://github.com/kazuinsx" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150x150/E74C3C/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
-      <b>[Nome Completo]</b><br>
-      <sub><i>Função no Projeto</i></sub><br>
+      <b>[Willerson Junior]</b><br>
+      <sub><i>Product Owner</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="[LINK_GITHUB]" target="_blank">
+      <a href="https://github.com/NoskyNaoSei" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150x150/2ECC71/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
-      <b>[Nome Completo]</b><br>
-      <sub><i>Função no Projeto</i></sub><br>
+      <b>[Paulo Junior]</b><br>
+      <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="[LINK_GITHUB]" target="_blank">
+      <a href="https://github.com/killzziinn" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
@@ -90,37 +90,25 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
   <tr>
     <td align="center">
       <img src="https://via.placeholder.com/150x150/F39C12/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
-      <b>[Nome Completo]</b><br>
-      <sub><i>Função no Projeto</i></sub><br>
+      <b>[Rikio Anzai]</b><br>
+      <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="[LINK_GITHUB]" target="_blank">
+      <a href="https://github.com/rikioanzai" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
     <td align="center">
       <img src="https://via.placeholder.com/150x150/9B59B6/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
-      <b>[Nome Completo]</b><br>
-      <sub><i>Função no Projeto</i></sub><br>
+      <b>[Otavio Santos]</b><br>
+      <sub><i>Dev Teamo</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="[LINK_GITHUB]" target="_blank">
+      <a href="https://github.com/OctaviusPaulinus" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150x150/1ABC9C/FFFFFF?text=Foto" width="100px" style="border-radius: 50%"><br>
-      <b>[Nome Completo]</b><br>
-      <sub><i>Função no Projeto</i></sub><br>
-      <a href="[LINK_LINKEDIN]" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="[LINK_GITHUB]" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
   </tr>
 </table>
 
