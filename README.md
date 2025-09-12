@@ -221,7 +221,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
 
 ## 📄 Documentação Adicional
 
-- 📋 [Manual do Usuário](https://drive.google.com/drive/u/2/folders/1bZxF9tAav4n-n8tWVQSMjuYgou_Qycpk)
+- 🗃 [Manual do Usuário](https://drive.google.com/drive/u/2/folders/1bZxF9tAav4n-n8tWVQSMjuYgou_Qycpk)
 
 ---
 
