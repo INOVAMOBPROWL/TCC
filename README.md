@@ -64,7 +64,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
     </td>
     <td align="center">
       <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481006718189668/Imagem_do_WhatsApp_de_2025-04-09_as_19.23.40_4300dd30.jpg?ex=68c35cea&is=68c20b6a&hm=9bff5e35ebb5b104fd0f4c7cd5d70a5d56edb253336a9b09b5d615192a6e9f35&=&format=webp&width=305&height=544" width="100px" style="border-radius: 50%"><br>
-      <b>[Willerson Junior]</b><br>
+      <b>Willerson Junior</b><br>
       <sub><i>Product Owner</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -75,7 +75,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
     </td>
     <td align="center">
       <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007041155072/Imagem_do_WhatsApp_de_2025-04-10_as_12.29.56_def43f99.jpg?ex=68c35cea&is=68c20b6a&hm=cca3a588cb9303eaeeb5d9e1e0c23080615df5d69f3692e356e18650c6d34810&=&format=webp&width=433&height=544" width="100px" style="border-radius: 50%"><br>
-      <b>[Paulo Junior]</b><br>
+      <b>Paulo Junior</b><br>
       <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -88,7 +88,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
   <tr>
     <td align="center">
       <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007389544569/Imagem_do_WhatsApp_de_2025-06-05_as_19.45.54_769e6b34.jpg?ex=68c35cea&is=68c20b6a&hm=bd4e0c58f895e2f8c8429a04257a39b5cd404107417562c9e2c5787650d50ba3&=&format=webp&width=407&height=544" width="100px" style="border-radius: 50%"><br>
-      <b>[Rikio Anzai]</b><br>
+      <b>Rikio Anzai</b><br>
       <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -99,7 +99,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
     </td>
     <td align="center">
       <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007884341369/Imagem_do_WhatsApp_de_2025-04-09_as_19.19.58_73370af2.jpg?ex=68c35cea&is=68c20b6a&hm=755f0fbafc889d16b3eac42ef5300e9d9bb47e362797ee2c84bd8fd5f99798ea&=&format=webp&width=251&height=544" width="100px" style="border-radius: 50%"><br>
-      <b>[Otavio Santos]</b><br>
+      <b>Otavio Santos</b><br>
       <sub><i>Dev Teamo</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
