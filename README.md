@@ -100,7 +100,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
     <td align="center">
       <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007884341369/Imagem_do_WhatsApp_de_2025-04-09_as_19.19.58_73370af2.jpg?ex=68c35cea&is=68c20b6a&hm=755f0fbafc889d16b3eac42ef5300e9d9bb47e362797ee2c84bd8fd5f99798ea&=&format=webp&width=251&height=544" width="100px" style="border-radius: 50%"><br>
       <b>Otavio Santos</b><br>
-      <sub><i>Dev Teamo</i></sub><br>
+      <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
