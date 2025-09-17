@@ -52,24 +52,24 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481040566358206/IMG_20250730_231656.jpg?ex=68c35cf2&is=68c20b72&hm=ef83fa00a2ab272e4f19b628d1764aee20d164c0443e4673206b96ba6e10f1ae&=&format=webp&width=486&height=648" width="100px" style="border-radius: 50%"><br>
-      <b>L.Gustavo</b><br>
+      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481006718189668/Imagem_do_WhatsApp_de_2025-04-09_as_19.23.40_4300dd30.jpg?ex=68c35cea&is=68c20b6a&hm=9bff5e35ebb5b104fd0f4c7cd5d70a5d56edb253336a9b09b5d615192a6e9f35&=&format=webp&width=305&height=544" width="100px" style="border-radius: 10%"><br>
+      <b>Willerson Junior</b><br>
       <sub><i>Scrum Master</i></sub><br>
-      <a href="https://www.linkedin.com/in/gustavo-vieira-6833b8364/" target="_blank">
+       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://github.com/kazuinsx" target="_blank">
+       <a href="https://github.com/NoskyNaoSei" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
     <td align="center">
-      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481006718189668/Imagem_do_WhatsApp_de_2025-04-09_as_19.23.40_4300dd30.jpg?ex=68c35cea&is=68c20b6a&hm=9bff5e35ebb5b104fd0f4c7cd5d70a5d56edb253336a9b09b5d615192a6e9f35&=&format=webp&width=305&height=544" width="100px" style="border-radius: 50%"><br>
-      <b>Willerson Junior</b><br>
+           <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007389544569/Imagem_do_WhatsApp_de_2025-06-05_as_19.45.54_769e6b34.jpg?ex=68c35cea&is=68c20b6a&hm=bd4e0c58f895e2f8c8429a04257a39b5cd404107417562c9e2c5787650d50ba3&=&format=webp&width=407&height=544" width="100px" style="border-radius: 50%"><br>
+      <b>Rikio Anzai</b><br>
       <sub><i>Product Owner</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://github.com/NoskyNaoSei" target="_blank">
+      <a href="https://github.com/rikioanzai" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
@@ -87,13 +87,13 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007389544569/Imagem_do_WhatsApp_de_2025-06-05_as_19.45.54_769e6b34.jpg?ex=68c35cea&is=68c20b6a&hm=bd4e0c58f895e2f8c8429a04257a39b5cd404107417562c9e2c5787650d50ba3&=&format=webp&width=407&height=544" width="100px" style="border-radius: 50%"><br>
-      <b>Rikio Anzai</b><br>
+      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481040566358206/IMG_20250730_231656.jpg?ex=68cbeeb2&is=68ca9d32&hm=c0521dda8f00455cc3b685d09903f4718f8225d5eca6ee5e2d9d22374e4865cc&=&format=webp&width=486&height=648" width="100px" style="border-radius: 50%"><br>
+      <b>L.Gustavo</b><br>
       <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://github.com/rikioanzai" target="_blank">
+      <a href="https://github.com/kazuinsx" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </td>
