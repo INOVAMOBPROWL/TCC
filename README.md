@@ -52,7 +52,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481006718189668/Imagem_do_WhatsApp_de_2025-04-09_as_19.23.40_4300dd30.jpg?ex=68c35cea&is=68c20b6a&hm=9bff5e35ebb5b104fd0f4c7cd5d70a5d56edb253336a9b09b5d615192a6e9f35&=&format=webp&width=305&height=544" width="100px" style="border-radius: 10%"><br>
+      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481006718189668/Imagem_do_WhatsApp_de_2025-04-09_as_19.23.40_4300dd30.jpg?ex=692594aa&is=6924432a&hm=1630141713e242228f88afd9c83c9b1a7f3070d25132ebb35ec84678167af589&=&format=webp&width=271&height=485" width="100px" style="border-radius: 10%"><br>
       <b>Willerson Junior</b><br>
       <sub><i>Scrum Master</i></sub><br>
        <a href="[LINK_LINKEDIN]" target="_blank">
@@ -63,7 +63,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       </a>
     </td>
     <td align="center">
-           <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007389544569/Imagem_do_WhatsApp_de_2025-06-05_as_19.45.54_769e6b34.jpg?ex=68c35cea&is=68c20b6a&hm=bd4e0c58f895e2f8c8429a04257a39b5cd404107417562c9e2c5787650d50ba3&=&format=webp&width=407&height=544" width="100px" style="border-radius: 50%"><br>
+           <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007389544569/Imagem_do_WhatsApp_de_2025-06-05_as_19.45.54_769e6b34.jpg?ex=692594aa&is=6924432a&hm=9b7f9c1013d2d05e3e6753f13d8af838659c49cc8b6765ce77d73d8d2005cbcf&=&format=webp&width=363&height=485" width="100px" style="border-radius: 50%"><br>
       <b>Rikio Anzai</b><br>
       <sub><i>Product Owner</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
@@ -74,7 +74,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       </a>
     </td>
     <td align="center">
-      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007041155072/Imagem_do_WhatsApp_de_2025-04-10_as_12.29.56_def43f99.jpg?ex=68c35cea&is=68c20b6a&hm=cca3a588cb9303eaeeb5d9e1e0c23080615df5d69f3692e356e18650c6d34810&=&format=webp&width=433&height=544" width="100px" style="border-radius: 50%"><br>
+      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481007041155072/Imagem_do_WhatsApp_de_2025-04-10_as_12.29.56_def43f99.jpg?ex=692594aa&is=6924432a&hm=ed6aadb14c6c5662a8911c146e51bd06d4eb0a26ddc8b73dc6fb91f0410b5f8d&=&format=webp&width=386&height=485" width="100px" style="border-radius: 50%"><br>
       <b>Paulo Junior</b><br>
       <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
@@ -87,7 +87,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481040566358206/IMG_20250730_231656.jpg?ex=68cbeeb2&is=68ca9d32&hm=c0521dda8f00455cc3b685d09903f4718f8225d5eca6ee5e2d9d22374e4865cc&=&format=webp&width=486&height=648" width="100px" style="border-radius: 50%"><br>
+      <img src="https://media.discordapp.net/attachments/1415480544199839815/1415481040566358206/IMG_20250730_231656.jpg?ex=692594b2&is=69244332&hm=8f7b52d8f4de83b9994646fe7af48edb175c2551d65db6b499e45634fa852325&=&format=webp&width=442&height=589" width="100px" style="border-radius: 50%"><br>
       <b>L.Gustavo</b><br>
       <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
@@ -102,9 +102,9 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <b>Otavio Santos</b><br>
       <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="" alt="LinkedIn">
       </a>
-      <a href="https://github.com/OctaviusPaulinus" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
   </tr>
