@@ -102,7 +102,7 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
       <b>Otavio Santos</b><br>
       <sub><i>Dev Team</i></sub><br>
       <a href="[LINK_LINKEDIN]" target="_blank">
-        <img src="" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
       <a href="" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
