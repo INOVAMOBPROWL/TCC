@@ -220,15 +220,6 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
 
 ---
 
-## 📊 Dashboard das Sprints
-
-### 📈 Progresso Geral do Projeto
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/34495E/FFFFFF?text=Gr%C3%A1fico+de+Progresso" alt="Gráfico de Progresso">
-</div>
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```
