@@ -146,43 +146,76 @@ Nossa equipe é composta por estudantes dedicados e apaixonados por tecnologia, 
 </details>
 
 #### 🎯 Sprint 2 - Desenvolvimento do MVP
-**Período:** 13/09/2025 - [Data Fim]
+**Período:** 13/09/2025 - 27/09/2025
 
 <details>
 <summary>📊 Ver detalhes da Sprint 2</summary>
 
 **Objetivos:**
+- Recarga de passes
+- Cadastro e login de usuário
+- Histórico simples
+- Sem integração bancária real (apenas simulação no MVP)
 
 **Entregas:**
-- []...
+- [✔️] Cadastro de Usuários
+- [✔️] Login e Autenticação
+- [✔️] Recarga Digital
+- [✔️] Histórico de Recargas
+- [✔️] Interface Inicial
 
 </details>
 
 #### 🎯 Sprint 3 - Implementação de Funcionalidades Avançadas
-**Período:** [Data Início] - [Data Fim]
+**Período:** 26/09/2025 - 20/10/2025
 
 <details>
 <summary>📊 Ver detalhes da Sprint 3</summary>
 
 **Objetivos:**
--
+- Segurança do Sistema
+- Serviços Externos (API, Callbacks e PIX)
+- Experiência do Usuário
+- Módulos Administrativos Completo
+- Estrutura e Performance
+- Sistema de Testes e Automação
+- Escabilidade do Sistema
 
 **Entregas:**
-- [ ]...
+- [✔️] Autenticação Implementada
+- [✔️] Integração Real com o PIX
+- [✔️] Notificação Automáticas
+- [✔️] Dashboard Administrativo
+- [✔️] Arquitetura Modular
+- [✔️] Sistemas de Logs
+- [✔️] Otimização de Performance
+- [✔️] Pipeline Configurado
+- [✔️] Versão Responsiva
 
 </details>
 
 #### 🎯 Sprint 4 - Testes e Refinamentos
-**Período:** [Data Início] - [Data Fim]
+**Período:** 26/09/2025 - ...
 
 <details>
 <summary>📊 Ver detalhes da Sprint 4</summary>
 
 **Objetivos:**
+- Validar as funcionalidades implementadas
+- Corrigir erros e falhas identificadas
+- Melhorar o desempenho geral do sistema
+- Refinar a interface e a experiência do usuário
+- Ajustar integrações externas
+- Validar segurança e acesso
+- Realizar testes da usabilidade
 
 **Entregas:**
-- [ ]...
-
+- [✔️] Ajustes visuais e melhorias de interface
+- [✔️] Testes funcionais validos
+- [✔️] Ajustes nas integrações externas
+- [✔️] Melhoria de Segurança
+- [✔️] Teste de usabilidade aplicados
+- [✔️] Sistema pronto para homologação
 </details>
 
 ---
